@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Drjaickal/Drjaickal69/blob/main/banner%20for%20github%20copy%201.png)
 <h1 align="center">Hi 👋, I'm Avijit Acharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
